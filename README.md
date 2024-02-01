@@ -34,6 +34,6 @@ tkinter (for GUI development)
 openpyxl (for Excel sheet operations)
 mysql-connector-python (for MySQL database integration)
 
-Contribution
+## Contribution
 Feel free to contribute to the project by opening issues or submitting pull requests. Your input is highly appreciated!
 
